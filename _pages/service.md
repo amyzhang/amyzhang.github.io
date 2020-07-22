@@ -32,3 +32,4 @@ author_profile: true
 
 ## Misc
 * Mila admissions committee 2018, 2019
+* Board of Directors for Women in Machine Learning
