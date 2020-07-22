@@ -19,6 +19,7 @@ author_profile: true
 
 ## Mentorship  and Teaching
 * AI4SocialGood TA Summer 2018
+* Taught at MISE in Accra, Ghana 2017
 
 
 
