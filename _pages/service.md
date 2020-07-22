@@ -32,9 +32,3 @@ author_profile: true
 
 ## Misc
 * Mila admissions committee 2018, 2019
-
-
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
