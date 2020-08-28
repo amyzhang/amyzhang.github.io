@@ -41,6 +41,7 @@ D Krueger, E Caballero, JH Jacobsen, **A Zhang**, J Binas, R Le Priol, A Courvil
 
 [Improving sample efficiency in model-free reinforcement learning from images](https://arxiv.org/pdf/1910.01741)
 (Deep Learning Workshop at NeurIPS 2019)  
+[Website](https://sites.google.com/view/sac-ae). [Code](https://github.com/denisyarats/pytorch_sac_ae).\
 D Yarats, **A Zhang**, I Kostrikov, B Amos, J Pineau, R Fergus
 
 [Learning causal state representations of partially observable environments](https://arxiv.org/pdf/1906.10437)
