@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+[Improving sample efficiency in model-free reinforcement learning from images](https://arxiv.org/pdf/1910.01741)
+(AAAI 2021)  
+[Website](https://sites.google.com/view/sac-ae) [Code](https://github.com/denisyarats/pytorch_sac_ae)\
+D Yarats, **A Zhang**, I Kostrikov, B Amos, J Pineau, R Fergus
+
 [Learning from Graphical Replay](https://ipvs.informatik.uni-stuttgart.de/mlr/rss2020Workshop/papers/yang.pdf)
 (Learning in Task and Motion Planning Workshop at RSS 2020)  
 G Yang, **A Zhang**, A Morcos, J Pineau, P Abbeel, R Calandra
@@ -38,11 +43,6 @@ A Touati\*, **A Zhang**\*, J Pineau, P Vincent
 [Out-of-distribution generalization via risk extrapolation](https://arxiv.org/pdf/2003.00688)
 (preprint)  
 D Krueger, E Caballero, JH Jacobsen, **A Zhang**, J Binas, R Le Priol, A Courville
-
-[Improving sample efficiency in model-free reinforcement learning from images](https://arxiv.org/pdf/1910.01741)
-(Deep Learning Workshop at NeurIPS 2019)  
-[Website](https://sites.google.com/view/sac-ae) [Code](https://github.com/denisyarats/pytorch_sac_ae)\
-D Yarats, **A Zhang**, I Kostrikov, B Amos, J Pineau, R Fergus
 
 [Learning causal state representations of partially observable environments](https://arxiv.org/pdf/1906.10437)
 (Oral at RLDM 2019)  
