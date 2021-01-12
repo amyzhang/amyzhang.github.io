@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+## 2021
+* University of Oxford.  *Exploiting latent structure and bisimulation for better generalization*. (Invited)
+
 ## 2020
 * Computational Intelligence, Learning, Vision, and Robotics Lab at NYU. *Exploiting latent structure and bisimulation for better generalization*. (Invited)
 * Deep Reinforcement Learning Workshop, Theory of Reinforcement Learning Program, Simons Institute. *Exploiting latent structure and bisimulation for better generalization*. (Invited)
