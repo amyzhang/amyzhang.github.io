@@ -7,6 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
+
+[Learning Invariant Representations for Reinforcement Learning without Reconstruction](https://arxiv.org/pdf/2006.10742)
+(ICLR 2021, Oral)  
+[Website](https://sites.google.com/view/deepbisim4control)\
+**A Zhang**\*, R McAllister\*, R Calandra, Y Gal, S Levine
+
+[Multi-Task Reinforcement Learning as a Hidden-Parameter Block MDP](https://arxiv.org/pdf/2007.07206)
+(ICLR 2021)  
+[Website](https://sites.google.com/view/hip-bmdp)\
+**A Zhang**, S Sodhani, K Khetarpal, J Pineau
+
 [Improving sample efficiency in model-free reinforcement learning from images](https://arxiv.org/pdf/1910.01741)
 (AAAI 2021)  
 [Website](https://sites.google.com/view/sac-ae) [Code](https://github.com/denisyarats/pytorch_sac_ae)\
@@ -15,16 +26,6 @@ D Yarats, **A Zhang**, I Kostrikov, B Amos, J Pineau, R Fergus
 [Learning from Graphical Replay](https://ipvs.informatik.uni-stuttgart.de/mlr/rss2020Workshop/papers/yang.pdf)
 (Learning in Task and Motion Planning Workshop at RSS 2020)  
 G Yang, **A Zhang**, A Morcos, J Pineau, P Abbeel, R Calandra
-
-[Multi-Task Reinforcement Learning as a Hidden-Parameter Block MDP](https://arxiv.org/pdf/2007.07206)
-(Theoretical Foundations of Reinforcement Learning Workshop at ICML 2020)  
-[Website](https://sites.google.com/view/hip-bmdp)\
-**A Zhang**, S Sodhani, K Khetarpal, J Pineau
-
-[Learning Invariant Representations for Reinforcement Learning without Reconstruction](https://arxiv.org/pdf/2006.10742)
-(Inductive biases, invariances and generalization in RL Workshop at ICML 2020)  
-[Website](https://sites.google.com/view/deepbisim4control)\
-**A Zhang**\*, R McAllister\*, R Calandra, Y Gal, S Levine
 
 [Plan2Vec: Unsupervised Representation Learning by Latent Plans](https://arxiv.org/pdf/2005.03648)
 (L4DC 2020)  
