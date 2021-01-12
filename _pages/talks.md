@@ -8,7 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ## 2021
-* University of Oxford.  *Exploiting latent structure and bisimulation for better generalization*. (Invited)
+* University of Oxford.  *Exploiting latent structure and bisimulation for better generalization*. (Invited) 
+[Video](https://www.youtube.com/watch?v=Sn8x2MS48xk&feature=youtu.be&ab_channel=OATMLresearchgroup)\
 
 ## 2020
 * Computational Intelligence, Learning, Vision, and Robotics Lab at NYU. *Exploiting latent structure and bisimulation for better generalization*. (Invited)
