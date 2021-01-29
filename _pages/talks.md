@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## 2021
+* Intelligent Robot Motion Lab, Princeton University. *Exploiting latent structure and bisimulation for better generalization*. (Invited)
 * University of Oxford.  *Exploiting latent structure and bisimulation for better generalization*. [Video](https://www.youtube.com/watch?v=Sn8x2MS48xk&feature=youtu.be&ab_channel=OATMLresearchgroup). (Invited) 
 
 
