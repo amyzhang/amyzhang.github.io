@@ -83,7 +83,7 @@ author:
   name             : "Amy Zhang"
   avatar           : "profile.png"
   bio              : "PhD candidate at McGill University, Mila, and FAIR. Researcher in state abstractions, model-based reinforcement learning, and generalization."
-  location         : "Montreal, QC"
+  location         : # "Montreal, QC"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=mXtH1UYAAAAJ"
