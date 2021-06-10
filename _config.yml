@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amy Zhang"
   avatar           : "profile.png"
-  bio              : "PhD candidate at McGill University, Mila, and FAIR. Researcher in state abstractions, model-based reinforcement learning, and generalization."
+  bio              : "Postdoc at UC Berkeley, research scientist at Facebook AI Research. Works on state abstractions and generalization in reinforcement learning."
   location         : # "Montreal, QC"
   employer         :
   pubmed           : 
