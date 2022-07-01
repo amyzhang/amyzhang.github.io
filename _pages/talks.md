@@ -7,7 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+## 2022
+* RLDM. *Introduction to Computational Reinforcement Learning*. [Video](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aab5d85e-48ec-42f0-b291-aebd00d56148). (Invited)
+
 ## 2021
+* Ecological Theory of Reinforcement Learning: How Does Task Design Influence Agent Learning? Workshop at NeurIPS 2021. *Structural Assumptions for Better Generalization in Reinforcement Learning*. (Invited)
+* Nvidia, UCLA, UNC Chapel Hill, Yale, Princeton, CMU, UT Austin, USC.
+* UPenn Department of Computer and Information Science's Spring Colloquia Series. (Invited)
 * Intelligent Robot Motion Lab, Princeton University. *Exploiting latent structure and bisimulation for better generalization*. (Invited)
 * University of Oxford.  *Exploiting latent structure and bisimulation for better generalization*. [Video](https://www.youtube.com/watch?v=Sn8x2MS48xk&feature=youtu.be&ab_channel=OATMLresearchgroup). (Invited) 
 
