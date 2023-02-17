@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Amy Zhang"
 title_separator          : "-"
 name                     : &name "Amy Zhang"
-description              : &description "Postdoc at UC Berkeley, research scientist at Facebook AI Research. Incoming faculty at UT Austin, Spring 2023."
+description              : &description "Assistant Professor at UT Austin."
 url                      : https://amyzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amyzhang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amy Zhang"
   avatar           : "profile.png"
-  bio              : "Incoming assistant professor at UT Austin. Current research scientist at Facebook AI Research and postdoc at UC Berkeley. Works on state abstractions and generalization in reinforcement learning."
+  bio              : "Assistant professor at UT Austin. Works on state abstractions and generalization in reinforcement learning."
   location         : # "Montreal, QC"
   employer         :
   pubmed           : 
